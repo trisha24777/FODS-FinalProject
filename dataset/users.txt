@@ -1,0 +1,12 @@
+admin,admin123,admin,ADMIN001,Admin User,admin@school.com,1234567890
+john,pass123,student,STU001,John Smith,john@school.com,9876543210
+michael,pass789,student,STU003,Michael Brown,michael@school.com,7654321098
+sarah,pass101,student,STU004,Sarah Davis,sarah@school.com,6543210987
+John,password,student,STU001,migueel,migg@gmail.com,123
+sukr,password,student,STU002,sukrit,sukmu@gmail.com,8787878787
+myname,password,student,STU001,my,mu@gmail.com,8888888888
+hello,password,student,STU001,hello,hello@gmail.com,999999999
+uu,password,student,STU001,s,sda@gmail.com,223233
+mynam,password,student,STU001,my,myname@gmail.com,321321
+test_user,password,student,STU001,test_user,test_user@gmail.com,980909090
+test__,password,student,STU001,test__,test__@gmail.com,908098908

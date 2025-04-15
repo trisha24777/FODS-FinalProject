@@ -1,0 +1,35 @@
+john,Mathematics,85
+john,Science,92
+john,English,78
+john,History,88
+john,Computer Science,95
+michael,Mathematics,75
+michael,Science,82
+michael,English,85
+michael,History,78
+michael,Computer Science,88
+sarah,Mathematics,95
+sarah,Science,90
+sarah,English,88
+sarah,History,92
+sarah,Computer Science,94
+uu,Mathematics,23
+uu,Science,23
+uu,English,23
+uu,History,23
+uu,Computer Science,23
+mynam,Mathematics,23
+mynam,Science,33
+mynam,English,45
+mynam,History,90
+mynam,Computer Science,23
+test_user,Mathematics,80
+test_user,Science,80
+test_user,English,80
+test_user,History,80
+test_user,Computer Science,80
+test__,Mathematics,90
+test__,Science,90
+test__,English,90
+test__,History,90
+test__,Computer Science,90

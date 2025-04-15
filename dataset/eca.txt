@@ -1,0 +1,16 @@
+john,Basketball Team
+john,Science Club
+john,Debate Club
+michael,Football Team
+michael,Art Club
+sarah,Dance Team
+sarah,Science Club
+sarah,Volunteer Club
+uu,football
+mynam,Football
+mynam,basketball
+test_user,chess
+test_user,drama
+test_user,dance
+test__,drama
+test__,football
